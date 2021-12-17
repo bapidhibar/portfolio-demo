@@ -1,0 +1,29 @@
+a {
+    text-decoration : none;
+}
+
+#main-company {
+    font-display: green;
+}
+body{
+    background-color: wheat;
+}
+h1{
+    color: #708090;
+}
+h3{
+    color:green ;
+}
+img{
+    border-radius: 70%;
+    width: 150px;
+    height: 150px;
+}
+hr{
+    
+    border-style:none;
+    border-top: dotted;
+    border-width: 10px;
+    width: 30%;
+    border-color:magenta;
+}
